@@ -4,10 +4,10 @@ This repository contains the code and files for the Mobile Robotics 3D Printing 
 
 ## Design
 ### Differential Drive robot
-![wifi_bot](https://github.com/Robotisim/mobile_robotics_3D_printing/blob/resources/wifi_bot.png)
+![wifi_bot](https://github.com/Robotisim/mobile_robotics_3D_printing/blob/main/resources/wifi_bot.png)
 
 ### Line Follower robot
-![wifi_bot](https://github.com/Robotisim/mobile_robotics_3D_printing/blob/resources/line_follower.png)
+![wifi_bot](https://github.com/Robotisim/mobile_robotics_3D_printing/blob/main/resources/line_follower.png)
 ## Software
 - Freecad
 
