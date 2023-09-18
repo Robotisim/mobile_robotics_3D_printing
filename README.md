@@ -1,7 +1,9 @@
 # Designing and 3D Printing Mobile Robots
 ## Overview
 This repository contains the code and files for the Mobile Robotics 3D Printing project. The goal of this project is to design and 3D print a mobile robot that can be controlled remotely. The robot is designed in Freecad
-
+### Build Yours
+- From 3D print directory get all printable [files](https://github.com/Robotisim/mobile_robotics_3D_printing/tree/main/3d_print)
+- Electornic Components required are mentioned at the bottom here .
 ## Design
 ### Differential Drive robot
 ![wifi_bot](https://github.com/Robotisim/mobile_robotics_3D_printing/blob/main/resources/wifi_bot.png)
