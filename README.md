@@ -1,10 +1,13 @@
 # Designing and 3D Printing Mobile Robots
 ## Overview
 This repository contains the code and files for the Mobile Robotics 3D Printing project. The goal of this project is to design and 3D print a mobile robot that can be controlled remotely. The robot is designed in Freecad
-### Build Yours
-- From 3D print directory get all printable [files](https://github.com/Robotisim/mobile_robotics_3D_printing/tree/main/3d_print)
-- Electornic Components required are mentioned at the bottom here .
-## Design
+## Robots 3D printing Files
+- ESP32 Differential Drive Robot : [Files](https://github.com/Robotisim/mobile_robotics_3D_printing/tree/main/3d_print/P%231_wifi_bot)
+- ESP32 Line Followign Robot : [Files](https://github.com/Robotisim/mobile_robotics_3D_printing/tree/main/3d_print/P%232_line_following_bot)
+- ESP32 Encoder based Robot ( Accurate Bot ) : [Files](https://github.com/Robotisim/mobile_robotics_3D_printing/tree/main/3d_print/P%233_accurate_robot)
+- RPI4 based SLAM Bot : [Files](https://github.com/Robotisim/mobile_robotics_3D_printing/tree/main/3d_print/P%234_rpi_bot)
+- **NOTE** :  Electornic Components required are mentioned at the bottom here .
+## Robot Desing 3D Models
 ### Differential Drive robot
 ![wifi_bot](https://github.com/Robotisim/mobile_robotics_3D_printing/blob/main/resources/wifi_bot.png)
 ### Line Follower robot
